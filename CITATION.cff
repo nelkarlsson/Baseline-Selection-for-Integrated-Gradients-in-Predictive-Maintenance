@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Karlsson"
+  given-names: "Nellie"
+- family-names: "Bengtsson"
+  given-names: "My"
+- family-names: "Rahat"
+  given-names: "Mahmoud"
+- family-names: "Mashhadi"
+  given-names: "Peyman"
+title: "Baseline Selection for Integrated Gradients in Predictive
+Maintenance of Volvo Trucks’ Turbocharger"
+doi: 10.5281/zenodo.1234
+date-released: 2023-02-12
+url: "https://github.com/nelkarlsson/Baseline-Selection-for-Integrated-Gradients-in-Predictive-Maintenance"
